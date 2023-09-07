@@ -6,3 +6,4 @@ pinocchio
 coverage
 pylint
 pytest
+factory-boy
